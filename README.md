@@ -1,3 +1,3 @@
 # python-Exercicios-basicos
-Exercícios básicos de python
-Algum exercicios simples de python
+Exercícios básicos de python</br>
+Alguns exercicios simples de python
